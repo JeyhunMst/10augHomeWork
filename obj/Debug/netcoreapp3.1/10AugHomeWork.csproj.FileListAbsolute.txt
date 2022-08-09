@@ -1,0 +1,14 @@
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\10AugHomeWork\obj\Debug\netcoreapp3.1\10AugHomeWork.csproj.AssemblyReference.cache
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\10AugHomeWork\obj\Debug\netcoreapp3.1\10AugHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\10AugHomeWork\obj\Debug\netcoreapp3.1\10AugHomeWork.AssemblyInfoInputs.cache
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\10AugHomeWork\obj\Debug\netcoreapp3.1\10AugHomeWork.AssemblyInfo.cs
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\10AugHomeWork\obj\Debug\netcoreapp3.1\10AugHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\10AugHomeWork\bin\Debug\netcoreapp3.1\10AugHomeWork.exe
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\10AugHomeWork\bin\Debug\netcoreapp3.1\10AugHomeWork.deps.json
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\10AugHomeWork\bin\Debug\netcoreapp3.1\10AugHomeWork.runtimeconfig.json
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\10AugHomeWork\bin\Debug\netcoreapp3.1\10AugHomeWork.runtimeconfig.dev.json
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\10AugHomeWork\bin\Debug\netcoreapp3.1\10AugHomeWork.dll
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\10AugHomeWork\bin\Debug\netcoreapp3.1\10AugHomeWork.pdb
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\10AugHomeWork\obj\Debug\netcoreapp3.1\10AugHomeWork.dll
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\10AugHomeWork\obj\Debug\netcoreapp3.1\10AugHomeWork.pdb
+C:\Users\FA506QM\Desktop\Coding\Tasks\c#\10AugHomeWork\obj\Debug\netcoreapp3.1\10AugHomeWork.genruntimeconfig.cache
